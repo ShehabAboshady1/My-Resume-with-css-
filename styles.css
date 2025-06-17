@@ -11,7 +11,9 @@ h1{
     text-align: center;
 }
 img{
-    padding-left: 290px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 h2{
