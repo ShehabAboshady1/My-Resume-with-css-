@@ -1,0 +1,36 @@
+body{
+    background-color: #00809D;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+}
+  
+img {
+  width: 40%;
+  border: 5px solid #FF7601;
+}
+h2{
+    text-align: center;
+    color: #FF7601;
+}
+li{
+    color: #FCECDD;
+}
+p{
+    color: #FCECDD;
+}
+a{
+    color: #FF7601;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+.image{
+      color: #FCECDD;
+    text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
